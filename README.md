@@ -145,7 +145,7 @@ We welcome contributions! Here’s how you can contribute:
 1. Fork the repository.
 2. Clone your forked repository:
    ```bash
-   git clone <YOUR_FORKED_REPOSITORY_URL>
+   git clone https://github.com/aamersohailgit/user-management.git
    ```
 3. Create a feature branch:
    ```bash
